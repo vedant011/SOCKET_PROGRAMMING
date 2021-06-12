@@ -1,2 +1,2 @@
 # SOCKET_PROGRAMMING
-Video app by using socket programming.
+Live streaming video chat app by using socket programming.
